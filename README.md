@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header Banner](muhammad-abdullah-github-banner.svg)<img width="1600" height="400" alt="muhammad-abdullah-github-banner" src="https://github.com/user-attachments/assets/475efc5e-1feb-4f3e-900e-d1c0910147fe" />
 
 <!--
 **abdullahthehakim/abdullahthehakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
