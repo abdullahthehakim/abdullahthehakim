@@ -1,4 +1,4 @@
-![about](./github-about.svg)<img width="1200" height="2750" alt="muhammad-abdullah-github-about" src="https://github.com/user-attachments/assets/58859c85-5d93-4eab-a945-dbc42eb3c2bb" />
+<img width="1150" height="2045" alt="muhammad-abdullah-github-about (1)" src="https://github.com/user-attachments/assets/b498390f-df12-414a-aea9-fb69b907ea65" />
 
 
 <!--
