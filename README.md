@@ -1,4 +1,5 @@
-<img width="1150" height="2045" alt="muhammad-abdullah-github-about (1)" src="https://github.com/user-attachments/assets/b498390f-df12-414a-aea9-fb69b907ea65" />
+<img width="950" height="1525" alt="muhammad-abdullah-github-about (2)" src="https://github.com/user-attachments/assets/ea945bc1-dcca-453d-943b-ec58d9ee7192" />
+
 
 
 <!--
