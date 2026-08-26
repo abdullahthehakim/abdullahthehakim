@@ -1,4 +1,5 @@
-<img width="950" height="1525" alt="muhammad-abdullah-github-about (2)" src="https://github.com/user-attachments/assets/ea945bc1-dcca-453d-943b-ec58d9ee7192" />
+<img width="850" height="820" alt="muhammad-abdullah-devops-metrics" src="https://github.com/user-attachments/assets/034fa6ec-61d1-43aa-89cc-c8d6fff2c331" />
+
 
 
 
